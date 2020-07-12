@@ -21,4 +21,4 @@ Samsung Notebook 9 Metal Hackintosh
 - Sleep
 - Audio (AppleALC Problem)
 - Some Function Keys (Brightness)
-- Windows Boot (Somewhat causes, but I don't know)
+- Windows Boot (idk why it happens)

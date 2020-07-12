@@ -24,7 +24,7 @@ Samsung Notebook 9 Metal Hackintosh
 # Opencore (Problems List)
 
 - Sleep
-- PS2 Touchpad LEFT CLICK
+- Touchpad Weird Behavior [#Bugtracker](https://github.com/acidanthera/bugtracker/issues/1026])
 - Audio
 - FN Functions
 - Battery

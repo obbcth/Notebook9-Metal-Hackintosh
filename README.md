@@ -28,4 +28,5 @@ Samsung Notebook 9 Metal Hackintosh
 - Audio
 - FN Functions
 - Battery
+- Windows Boot
 - ... and so many things

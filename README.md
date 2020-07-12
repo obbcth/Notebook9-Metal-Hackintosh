@@ -4,6 +4,9 @@ Samsung Notebook 9 Metal Hackintosh
 ## Not Working
 
 - Sleep
+- Some Function Keys (Brightness)
+- HDMI not working after boot if plugged
+- Trackpad Gestures (Change VoodooPS2 to new version can solve it)
 
 ## Not Tested
 
@@ -13,17 +16,9 @@ Samsung Notebook 9 Metal Hackintosh
 
 - Everything else above
 
-## Need to Improve
-
-- Performance Optimization
-- HDMI not working after boot if plugged
-- Some Function Keys (Brightness)
-- Trackpad Gestures
-
-
 # Opencore (Problems List)
 
 - Sleep
 - Audio (AppleALC Problem)
-- FN Brightness Functions
+- Some Function Keys (Brightness)
 - Windows Boot (Somewhat causes, but I don't know)

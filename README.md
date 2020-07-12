@@ -27,4 +27,3 @@ Samsung Notebook 9 Metal Hackintosh
 - Audio (AppleALC Problem)
 - FN Brightness Functions
 - Windows Boot (Somewhat causes, but I don't know)
-- ... and so many things

@@ -1,4 +1,4 @@
-# Notebook9-Metal-Hackintosh
+# Notebook9-Metal-Hackintosh (Clover)
 Samsung Notebook 9 Metal Hackintosh
 
 ## Not Working
@@ -21,3 +21,11 @@ Samsung Notebook 9 Metal Hackintosh
 - Trackpad Gestures
 
 
+# Opencore (Problems List)
+
+- Sleep
+- PS2 Touchpad LEFT CLICK
+- Audio
+- FN Functions
+- Battery
+- ... and so many things

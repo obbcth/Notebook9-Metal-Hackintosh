@@ -27,6 +27,5 @@ Samsung Notebook 9 Metal Hackintosh
 - Touchpad Weird Behavior [#Bugtracker](https://github.com/acidanthera/bugtracker/issues/1026)
 - Audio (AppleALC Problem)
 - FN Functions
-- Battery [#SSDT Hotpatch](https://x86.co.kr/tip/3629426)
-- Windows Boot (Somewhat related to DSDT)
+- Windows Boot (Somewhat causes, but I don't know)
 - ... and so many things

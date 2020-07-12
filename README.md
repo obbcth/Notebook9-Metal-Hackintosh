@@ -24,7 +24,6 @@ Samsung Notebook 9 Metal Hackintosh
 # Opencore (Problems List)
 
 - Sleep
-- Touchpad Weird Behavior [#Bugtracker](https://github.com/acidanthera/bugtracker/issues/1026)
 - Audio (AppleALC Problem)
 - FN Brightness Functions
 - Windows Boot (Somewhat causes, but I don't know)

@@ -28,5 +28,5 @@ Samsung Notebook 9 Metal Hackintosh
 - Audio
 - FN Functions
 - Battery
-- Windows Boot [#HowTo](https://medium.com/macoclock/guide-multiboot-dualboot-opencore-with-windows-macos-linux-kextcache-131e96784c3f)
+- Windows Boot (Somewhat related to DSDT)
 - ... and so many things

@@ -19,6 +19,5 @@ Samsung Notebook 9 Metal Hackintosh
 # Opencore (Problems List)
 
 - Sleep
-- Audio (AppleALC Problem)
 - Some Function Keys (Brightness)
 - Windows Boot (idk why it happens)

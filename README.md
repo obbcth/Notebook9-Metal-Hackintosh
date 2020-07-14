@@ -19,5 +19,5 @@ Samsung Notebook 9 Metal Hackintosh
 # Opencore (Problems List)
 
 - Sleep
-- Some Function Keys (Brightness)
+- Some Function Keys (Brightness) [#HowTo](https://www.insanelymac.com/forum/topic/305030-guide-how-to-fix-brightness-hotkeys-in-dsdt/)
 - Windows Boot (idk why it happens)

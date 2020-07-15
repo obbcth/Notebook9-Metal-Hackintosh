@@ -1,5 +1,6 @@
 # Notebook9-Metal-Hackintosh (OpenCore)
 Samsung Notebook 9 Metal Hackintosh
+for i3-7100u, i5-7200u, i7-7300u
 
 ## Not Working
 

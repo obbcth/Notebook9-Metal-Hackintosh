@@ -11,6 +11,11 @@ Samsung Notebook 9 Metal Hackintosh
 - C-Type DP Alt Mode
 - HDMI after boot if plugged
 
+## Improvements
+
+- Clean SSDTs'
+- Performance / Battery Saving
+
 ## How To
 
 1. OpenCore를 다운받아 설치합니다. 0.5.9 기준.

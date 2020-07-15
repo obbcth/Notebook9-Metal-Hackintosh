@@ -7,11 +7,10 @@
 - RealtekRTL8111
 - USBInjectAll
 - [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
-- [VoodooPS2Controller](https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/)
+- [VoodooInput](https://github.com/acidanthera/VoodooInput)
+- [VoodooPS2](https://github.com/acidanthera/VoodooPS2)
+- [VoodooI2C with HID](https://github.com/VoodooI2C/VoodooI2C)
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 
 
 
-## Need to Fix
-
-- VoodooPS2 최신버전을 사용하면 동작안하는 문제. DSDT와 함께 패치가 필요.

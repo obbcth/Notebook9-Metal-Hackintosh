@@ -11,7 +11,3 @@ Samsung Notebook 9 Metal Hackintosh
 
 - C-Type DP Alt Mode
 - HDMI after boot if plugged
-
-## Working
-
-- Everything else above

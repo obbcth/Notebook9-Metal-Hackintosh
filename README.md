@@ -15,7 +15,7 @@ for i3-7100u, i5-7200u, i7-7300u
 ## Improvements
 
 - Clean SSDTs'
-- Performance / Battery Saving
+- Performance / Battery Saving [#HowTo](https://x86.co.kr/tip/3667839)
 
 ## How To
 

@@ -10,7 +10,7 @@ VirtualSMC 버전이 업데이트 된 이후로 사용하셔야 합니다.
 ## Not Working
 
 - Sleep
-- Windows Boot (idk why it happens)
+- Windows Boot (please use rEFInd)
 
 ## Not Tested
 

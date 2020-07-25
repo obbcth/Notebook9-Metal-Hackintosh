@@ -6,17 +6,17 @@ for i3-7100u, i5-7200u, i7-7300u
 
 VirtualSMC 버전이 업데이트 된 이후로 사용하셔야 합니다.
 
-배터리 부분이 잡히지 않으며 터치패드도 이상하게 작동하여 사용하는데 큰 어려움이 있습니다.
+배터리 부분이 잡히지 않으면 터치패드도 이상하게 작동하여 사용하는데 큰 어려움이 있습니다.
 
 ## Not Working
 
 - Sleep
 - Windows Boot (please use rEFInd)
+- HDMI not work if plugged in before boot
 
 ## Not Tested
 
 - C-Type DP Alt Mode
-- HDMI after boot if plugged
 
 ## Improvements
 

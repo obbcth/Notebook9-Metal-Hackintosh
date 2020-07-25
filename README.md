@@ -10,7 +10,7 @@ PLEASE USE VirtualSMC at least 1.1.5!
 
 ## Not Working
 
-- Sleep (In clover, it dies and does not wake up. Battery should be removed physically. I didn't test on OpenCore)
+- Hibernate (In clover, it dies and does not wake up. Battery should be removed physically. I didn't test on OpenCore)
 - Internal MicroSD Reader (Sinetek-rtsx.kext might solve it)
 
 ## Working
@@ -27,4 +27,5 @@ PLEASE USE VirtualSMC at least 1.1.5!
 - Intel AC8265 Wi-Fi Adapter
 - Intel Bluetooth
 - Realtek RTL8111 Ethernet
+- Sleep
 - and so much more

@@ -2,20 +2,28 @@
 Samsung Notebook 9 Metal Hackintosh
 for i3-7100u, i5-7200u, i7-7300u
 
-## For Big Sur Users
+# For Big Sur Users
 
-VirtualSMC 버전이 업데이트 된 이후로 사용하셔야 합니다.
+PLEASE USE VirtualSMC at least 1.1.5!
 
-배터리 부분이 잡히지 않으면 터치패드도 이상하게 작동하여 사용하는데 큰 어려움이 있습니다.
+## Please change SMBIOS for yours!
 
 ## Not Working
 
-- Sleep
-- Windows Boot (please use rEFInd)
+- Sleep (In clover, it dies and does not wake up. Battery should be removed physically. I didn't test on OpenCore)
+- Internal MicroSD Reader (Sinetek-rtsx.kext might solve it)
 
-## How To
+## Working
 
-1. OpenCore를 다운받아 설치합니다.
-1. config.plist를 다운받아 EFI/OC/ 폴더에 추가합니다.
-1. EFI/OC/ACPI/ 폴더에 [ACPI/OpenCore](https://github.com/obbcth/Notebook9-Metal-Hackintosh/tree/master/ACPI/OpenCore) 내 모든 DSDT와 SSDT를 추가합니다.
-1. EFI/OC/Kexts/ 폴더에 [kexts/Readme.md](https://github.com/obbcth/Notebook9-Metal-Hackintosh/tree/master/kexts) 에 적힌 파일을 받아 추가합니다.
+- Intel HD Graphics 620 QE/CI
+- Realtek ALC256 /w Spk Output and Mic Input
+- SpeedStep
+- USB 3.x Type A & C
+- Battery
+- I2CHID Touchpad /w Gestures (Newer version causes problem with 3-4 fingers)
+- HDMI External Display /w Sound
+- Brightness Control
+- Fn Key Brightness & Sound Control
+- Intel AC8265 Wi-Fi Adapter
+- Intel Bluetooth
+- and so much more

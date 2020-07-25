@@ -12,11 +12,6 @@ VirtualSMC 버전이 업데이트 된 이후로 사용하셔야 합니다.
 
 - Sleep
 - Windows Boot (please use rEFInd)
-- HDMI not work if plugged in before boot
-
-## Not Tested
-
-- C-Type DP Alt Mode
 
 ## How To
 

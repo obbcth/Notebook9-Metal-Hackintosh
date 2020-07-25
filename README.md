@@ -2,7 +2,7 @@
 Samsung Notebook 9 Metal Hackintosh
 for i3-7100u, i5-7200u, i7-7300u
 
-# For Big Sur Users
+### For Big Sur Users
 
 PLEASE USE VirtualSMC at least 1.1.5!
 

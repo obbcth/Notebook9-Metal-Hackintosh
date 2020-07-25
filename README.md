@@ -26,4 +26,5 @@ PLEASE USE VirtualSMC at least 1.1.5!
 - Fn Key Brightness & Sound Control
 - Intel AC8265 Wi-Fi Adapter
 - Intel Bluetooth
+- Realtek RTL8111 Ethernet
 - and so much more

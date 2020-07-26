@@ -6,7 +6,7 @@ for i3-7100u, i5-7200u, i7-7300u
 
 PLEASE USE VirtualSMC at least 1.1.5!
 
-## Please change SMBIOS for yours!
+## Please change SMBIOS to yours!
 
 ## Not Working
 

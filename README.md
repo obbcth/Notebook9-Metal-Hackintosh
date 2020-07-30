@@ -11,7 +11,7 @@ PLEASE USE VirtualSMC at least 1.1.5!
 ## Not Working
 
 - Hibernate (In clover, it dies and does not wake up. Battery should be removed physically. I didn't test on OpenCore)
-- Internal MicroSD Reader (Sinetek-rtsx.kext might solve it)
+- Internal MicroSD Reader ([Sinetek-rtsx.kext](https://github.com/cholonam/Sinetek-rtsx) might solve it)
 
 ## Working
 

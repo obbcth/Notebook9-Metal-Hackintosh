@@ -2,7 +2,9 @@
 Samsung Notebook 9 Metal Hackintosh
 for i3-7100u, i5-7200u, i7-7300u
 
-## Please change SMBIOS to yours!
+### Please change SMBIOS to yours!
+
+### Print Screen key works as touchpad toggle button. Need to fix ECs.
 
 ## Not Working
 
@@ -16,7 +18,7 @@ for i3-7100u, i5-7200u, i7-7300u
 - SpeedStep
 - USB 3.x Type A & C
 - Battery
-- I2CHID Touchpad /w Gestures (Newer version causes problem with 3-4 fingers)
+- I2CHID Touchpad /w Gestures (Somewhat causes problem with 3-4 fingers)
 - HDMI External Display /w Sound
 - Brightness Control
 - Fn Key Brightness & Sound Control

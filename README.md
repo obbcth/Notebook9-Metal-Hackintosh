@@ -8,7 +8,7 @@ for i3-7100u, i5-7200u, i7-7300u
 
 ## Not Working
 
-- Hibernate (In clover, it dies and does not wake up. Battery should be removed physically. I didn't test on OpenCore)
+- Hibernate (It dies and does not wake up. Battery should be removed physically.)
 - Internal MicroSD Reader ([Sinetek-rtsx.kext](https://github.com/cholonam/Sinetek-rtsx) might solve it)
 
 ## Working

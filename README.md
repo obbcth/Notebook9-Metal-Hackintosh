@@ -18,7 +18,7 @@ for i3-7100u, i5-7200u, i7-7300u
 - SpeedStep
 - USB 3.x Type A & C
 - Battery
-- I2CHID Touchpad /w Gestures (Big Sur causes problem with 3-4 fingers)
+- I2CHID Touchpad /w Gestures
 - HDMI External Display /w Sound
 - Brightness Control
 - Fn Key Brightness & Sound Control

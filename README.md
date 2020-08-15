@@ -1,10 +1,7 @@
-# Notebook9-Metal-Hackintosh (OpenCore)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/obbcth/Notebook9-Metal-Hackintosh)](https://github.com/obbcth/Notebook9-Metal-Hackintosh/releases)
+-----
 Samsung Notebook 9 Metal Hackintosh
 for i3-7100u, i5-7200u, i7-7300u
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/obbcth/Notebook9-Metal-Hackintosh)
------
-
 
 ### Print Screen key works as touchpad toggle button. Need to fix ECs.
 

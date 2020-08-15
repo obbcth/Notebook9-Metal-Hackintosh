@@ -2,7 +2,9 @@
 Samsung Notebook 9 Metal Hackintosh
 for i3-7100u, i5-7200u, i7-7300u
 
-### Please change SMBIOS to yours!
+![release](https://img.shields.io/badge/download-release-blue.svg)
+-----
+
 
 ### Print Screen key works as touchpad toggle button. Need to fix ECs.
 

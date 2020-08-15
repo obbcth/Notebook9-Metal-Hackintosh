@@ -2,7 +2,7 @@
 Samsung Notebook 9 Metal Hackintosh
 for i3-7100u, i5-7200u, i7-7300u
 
-![release](https://img.shields.io/badge/download-release-blue.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/obbcth/Notebook9-Metal-Hackintosh)
 -----
 
 

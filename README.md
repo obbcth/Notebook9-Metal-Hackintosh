@@ -33,6 +33,6 @@ macOS Big Sur on Samsung Notebook 9 Metal (2017)
   - Press `Space` in OpenCore boot page, and then select `Reset NVRAM` entry
 
 ## Installation
-- Complete EFI packs are available in the [releases](https://github.com/daliansky/Notebook9-Metal-Hackintosh/releases) page.
+- Complete EFI packs are available in the [releases](https://github.com/obbcth/Notebook9-Metal-Hackintosh/releases) page.
  - Please don't clone or download the master branch for daily use.
  

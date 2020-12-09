@@ -21,7 +21,6 @@ macOS Big Sur on Samsung Notebook 9 Metal (2017)
 ## Current Status
 
 - **Hibernate is not Working.** If you try to hibernate, **you should remove battery physically.**
-- **SD Card Reader** is not working. [Sinetek-rtsx.kext](https://github.com/cholonam/Sinetek-rtsx) might solve it, but I haven't tried.
 - Everything else works well
 
 ### OpenCore

@@ -1300,7 +1300,7 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02XREYPHV2N</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string>BD365E35-DD18-40D9-A1E9-B7AC3C4D0F67</string>
 		</dict>
@@ -1323,7 +1323,7 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W40V8HV2N</string>
+			<string>Fill Your Serial</string>
 			<key>SystemUUID</key>
 			<string>FF24C0C5-CA3B-44ED-8CDC-FD948372E28F</string>
 		</dict>
@@ -1340,7 +1340,7 @@
 			<key>ROM</key>
 			<data></data>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>Fill Your Serial</string>
 			<key>SystemUUID</key>
 			<string></string>
 		</dict>
@@ -1371,7 +1371,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02XREYPHV2N</string>
+			<string>Fill Your Serial</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1395,7 +1395,7 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-CAD6701F7CEA0921</string>
 			<key>SystemSerialNumber</key>
-			<string>C02XREYPHV2N</string>
+			<string>Fill Your Serial</string>
 			<key>SystemUUID</key>
 			<string>BD365E35-DD18-40D9-A1E9-B7AC3C4D0F67</string>
 			<key>SystemVersion</key>

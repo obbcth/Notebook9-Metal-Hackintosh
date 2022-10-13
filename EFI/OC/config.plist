@@ -1323,7 +1323,7 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>Fill Your Serial</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string>FF24C0C5-CA3B-44ED-8CDC-FD948372E28F</string>
 		</dict>
@@ -1340,7 +1340,7 @@
 			<key>ROM</key>
 			<data></data>
 			<key>SystemSerialNumber</key>
-			<string>Fill Your Serial</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string></string>
 		</dict>

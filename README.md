@@ -20,7 +20,7 @@ macOS Monterey on Samsung Notebook 9 Metal (2017)
 
 ## Current Status
 
-- **Hibernate is not Working.** If you try to hibernate, **you should remove battery physically.**
+- Hibernate is Working Fine now
 - Everything else works well
 
 ### OpenCore
